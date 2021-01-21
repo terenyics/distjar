@@ -15,7 +15,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>distjar.Main</mainClass>
+                            <mainClass>distjarMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
